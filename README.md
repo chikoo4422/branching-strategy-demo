@@ -1,7 +1,7 @@
 # branching-strategy-demo
 
 
-This is develop branch,
+This is develop branch, (Now a feature branch)
 
 Every code (bug fix, feature etc) has to be first merged to this branch via PR.
 
